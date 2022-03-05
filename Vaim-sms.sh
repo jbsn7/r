@@ -37,8 +37,9 @@ printf "\n"
 printf "        \e[1;91m Disclaimer: this tool is designed for Prank\n"
 printf "         testing in an authorized simulated cyberattack\n"
 printf "         Attacking targets without prior mutual consent\n"
+printf ".       Agar galat kiya to Amit gand me baash kr dega\n"
 printf "         is illegal!\n"
-printf ".     😠😠😠.  Agar galat kiya to Amit se Mil lena 😠😠😠
+
 
 
 
